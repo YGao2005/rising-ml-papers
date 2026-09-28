@@ -4,12 +4,13 @@ Every Monday: the ten recent machine-learning papers gaining the most momentum, 
 source-checked note on what each paper does. Compiled by
 [Scholar Feed](https://www.scholarfeed.org), which tracks 600k+ CS/AI/ML papers.
 
-**Latest: [2026-W39](issues/2026-W39.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w39) · [all issues](https://www.scholarfeed.org/rising)
+**Latest: [2026-W40](issues/2026-W40.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w40) · [all issues](https://www.scholarfeed.org/rising)
 
 ## Issues
 
 | Week | Theme | Web |
 |---|---|---|
+| [2026-W40](issues/2026-W40.md) | Systems that keep improving after deployment, from agent harnesses to robots | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w40) |
 | [2026-W39](issues/2026-W39.md) | Agents trained in executable, verifiable environments built from real code and apps | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w39) |
 | [2026-W38](issues/2026-W38.md) | Recursive self-improvement and synthetic training loops for agents | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w38) |
 | [2026-W37](issues/2026-W37.md) | Harder benchmarks, and the harnesses that run agents against them | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w37) |
