@@ -4,12 +4,13 @@ Every Monday: the ten recent machine-learning papers gaining the most momentum, 
 source-checked note on what each paper does. Compiled by
 [Scholar Feed](https://www.scholarfeed.org), which tracks 600k+ CS/AI/ML papers.
 
-**Latest: [2026-W42](issues/2026-W42.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w42) · [all issues](https://www.scholarfeed.org/rising)
+**Latest: [2026-W43](issues/2026-W43.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w43) · [all issues](https://www.scholarfeed.org/rising)
 
 ## Issues
 
 | Week | Theme | Web |
 |---|---|---|
+| [2026-W43](issues/2026-W43.md) | Where agents get their feedback: blame, counterfactuals and self-improvement loops | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w43) |
 | [2026-W42](issues/2026-W42.md) | Scaling the environments, graders and harnesses that let agents keep improving | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w42) |
 | [2026-W41](issues/2026-W41.md) | Post-training under scrutiny: open recipes, cheaper environments, audited signals | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w41) |
 | [2026-W40](issues/2026-W40.md) | Systems that keep improving after deployment, from agent harnesses to robots | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w40) |
