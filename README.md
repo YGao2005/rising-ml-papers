@@ -4,12 +4,13 @@ Every Monday: the ten recent machine-learning papers gaining the most momentum, 
 source-checked note on what each paper does. Compiled by
 [Scholar Feed](https://www.scholarfeed.org), which tracks 600k+ CS/AI/ML papers.
 
-**Latest: [2026-W44](issues/2026-W44.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w44) · [all issues](https://www.scholarfeed.org/rising)
+**Latest: [2026-W45](issues/2026-W45.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w45) · [all issues](https://www.scholarfeed.org/rising)
 
 ## Issues
 
 | Week | Theme | Web |
 |---|---|---|
+| [2026-W45](issues/2026-W45.md) | Testing agents where the work happens: repositories, robots and collaborators | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w45) |
 | [2026-W44](issues/2026-W44.md) | Agents that check their own work before they act | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w44) |
 | [2026-W43](issues/2026-W43.md) | Where agents get their feedback: blame, counterfactuals and self-improvement loops | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w43) |
 | [2026-W42](issues/2026-W42.md) | Scaling the environments, graders and harnesses that let agents keep improving | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w42) |
