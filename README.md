@@ -4,12 +4,13 @@ Every Monday: the ten recent machine-learning papers gaining the most momentum, 
 source-checked note on what each paper does. Compiled by
 [Scholar Feed](https://www.scholarfeed.org), which tracks 600k+ CS/AI/ML papers.
 
-**Latest: [2026-W46](issues/2026-W46.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w46) · [all issues](https://www.scholarfeed.org/rising)
+**Latest: [2026-W47](issues/2026-W47.md)** · [on the web](https://www.scholarfeed.org/rising/2026-w47) · [all issues](https://www.scholarfeed.org/rising)
 
 ## Issues
 
 | Week | Theme | Web |
 |---|---|---|
+| [2026-W47](issues/2026-W47.md) | Multilingual models, and agents aimed at science, labs and robots | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w47) |
 | [2026-W46](issues/2026-W46.md) | Agents tested on whole jobs, from physics research to chained coding requests | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w46) |
 | [2026-W45](issues/2026-W45.md) | Testing agents where the work happens: repositories, robots and collaborators | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w45) |
 | [2026-W44](issues/2026-W44.md) | Agents that check their own work before they act | [scholarfeed.org](https://www.scholarfeed.org/rising/2026-w44) |
